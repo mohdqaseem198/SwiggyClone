@@ -1,0 +1,11 @@
+# Ignore the Parcel cache folder
+.parcel-cache/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore a custom folder (e.g., logs)
+logs/
+
+# Ignore build output folder
+dist/
